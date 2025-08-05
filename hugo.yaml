@@ -1,0 +1,32 @@
+baseURL: https://unxzil.com/
+languageCode: en-us
+title: unxzil
+theme: PaperMod
+
+params:
+  ShowReadingTime: true      # 顯示閱讀時間
+  ShowShareButtons: true     # 分享按鈕
+  ShowPostNavLinks: true     # 上一篇/下一篇
+  ShowBreadCrumbs: true      # 麵包屑導航
+  ShowCodeCopyButtons: true  # 程式碼複製按鈕
+  ShowToc: true             # 目錄
+  
+  # 首頁資訊
+  homeInfoParams:
+    Title: "貝特培森的腦迴日記"
+    Content: "分享技術學習和生活感想"
+
+menu:
+  main:
+    - identifier: 'home'
+      name: 'Home'
+      url: '/'
+      weight: 10
+    - identifier: 'archives'
+      name: 'Archives'
+      url: '/archives/'
+      weight: 20
+    - identifier: 'categories'
+      name: 'Categories'
+      url: '/categories/'
+      weight: 30
