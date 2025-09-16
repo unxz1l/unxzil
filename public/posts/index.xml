@@ -1,20 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on unxzil</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on unxzil</description>
-    <generator>Hugo -- 0.148.2</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Aug 2025 17:51:06 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>19歲的夏天，何時放晴</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 05 Aug 2025 17:51:06 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h3 id=&#34;楔子&#34;&gt;楔子&lt;/h3&gt;
-&lt;p&gt;test&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on unxzil</title><link>https://unxzil.com/posts/</link><description>Recent content in Posts on unxzil</description><generator>Hugo -- 0.148.2</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 17:51:06 +0800</lastBuildDate><atom:link href="https://unxzil.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>19歲的夏天，何時放晴</title><link>https://unxzil.com/posts/my-first-post/</link><pubDate>Tue, 05 Aug 2025 17:51:06 +0800</pubDate><guid>https://unxzil.com/posts/my-first-post/</guid><description>&lt;h3 id="楔子">楔子&lt;/h3>
+&lt;p>寫作，不只是抒發，而是一種精煉觀察與思考的方法。我希望透過寫作，讓思緒更清晰，也要求自己把想法整理成有形的成果，避免白白流走。
+有趣的是想寫 blog 的念頭，最早可以追溯到去年分科的時候。直到唸完一年大學後，才真正在我釐清各個事物在我心中的優先順序之後，投入時間與能量去實現。這篇文章，除了架設網站需要之外，也是想替接下來的紀錄立下一個起點。&lt;/p>
+&lt;h3 id="大一的總結">大一的總結&lt;/h3>
+&lt;ul>
+&lt;li>學習方法與資源管理（時間、心力、金錢）的稚嫩&lt;/li>
+&lt;li>更清晰的價值排序&lt;/li>
+&lt;li>體驗過重要的人際關係，從中獲得滋養與挫折&lt;/li>
+&lt;li>對時間、金錢與責任有更深刻的體會（家教、工讀、獎學金）&lt;/li>
+&lt;li>資訊能力的增加：完成 project、熟悉 git、初學 Python&lt;/li>
+&lt;li>接觸並努力實踐 Deep Work、Stoic、Deliberate Practice的概念&lt;/li>
+&lt;li>見識更廣（role model、企業參訪）&lt;/li>
+&lt;li>關於「決策」的體驗與反思&lt;/li>
+&lt;/ul></description></item></channel></rss>

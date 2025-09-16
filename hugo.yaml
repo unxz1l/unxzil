@@ -11,10 +11,18 @@ params:
   ShowCodeCopyButtons: true  # 程式碼複製按鈕
   ShowToc: true             # 目錄
   
-  # 首頁資訊
+  # 首頁資訊 - 確保首頁顯示為 landing page
   homeInfoParams:
     Title: "貝特培森的腦迴日記"
     Content: "分享技術學習和生活感想"
+    AlignSocialIconsTo: "left"
+  
+  # 主要內容區域設置
+  mainSections:
+    - "posts"
+  
+  # 首頁設置
+  disableSpecial1stPost: false  # 允許首篇文章特殊顯示
 
 menu:
   main:
