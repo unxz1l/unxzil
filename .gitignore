@@ -1,0 +1,26 @@
+# Hugo build output
+public/
+
+# Hugo cache
+resources/_gen/
+
+# Hugo server
+hugo.log
+hugo.log.lock
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if using npm/yarn)
+node_modules/
+
+# Environment variables
+.env
+.env.local
